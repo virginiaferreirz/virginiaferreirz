@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9933FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=33FFCC&size=25&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Virgínia+Ferreira;I+Undergraduate+Computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=99FFFF&size=25&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Virgínia+Ferreira;I+Undergraduate+Computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
  
 <div align="center">  
-  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=virginiaferreirz&show_icons=true&count_private=true&hide_border=true&title_color=9933FF&icon_color=33FFCC&text_color=c9d1d9&bg_color=0d1117" alt="Virginia Ferreira github stats" /> 
-  <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virginiaferreirz&hide_border=true&title_color=9933FF&text_color=33FFCC&bg_color=0d1117" />
+  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=virginiaferreirz&show_icons=true&count_private=true&hide_border=true&title_color=9933FF&icon_color=99FFFF&text_color=c9d1d9&bg_color=0d1117" alt="Virginia Ferreira github stats" /> 
+  <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virginiaferreirz&hide_border=true&title_color=99FFFF&text_color=33FFCC&bg_color=0d1117" />
 </div>
 
 ## Main skills:
