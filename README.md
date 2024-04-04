@@ -23,7 +23,7 @@
    <a> ✿ Exact science teacher in the popular entrance exam - state university of Paraná </a> <br>
    <a> ✿ Member of the software quality and user experience research group (QualiX) - state university of Maringá </a> <br>
    <a> ✿ Student director of the "Conectas - UNESPAR" project (Project aimed at women in technology areas) </a> <br>
-   <a> ✿ Research in the area of ​​human computer interaction and software engineering </a> 
+   <a> ✿ Research in the area of ​​human computer interaction and software engineering </a> <br>
    <a> ✿ Student representative at the Brazilian computing society </a> 
 </div>
 
